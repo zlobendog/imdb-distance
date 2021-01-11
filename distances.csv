@@ -1,0 +1,46 @@
+ActorSource, ActorTarget, Distance 
+Dwayne Johnson,Chris Hemsworth,2
+Dwayne Johnson,Robert Downey Jr.,2
+Dwayne Johnson,Akshay Kumar,2
+Dwayne Johnson,Jackie Chan,2
+Dwayne Johnson,Bradley Cooper,2
+Dwayne Johnson,Adam Sandler,2
+Dwayne Johnson,Scarlett Johansson,2
+Dwayne Johnson,Sofia Vergara,2
+Dwayne Johnson,Chris Evans,2
+Chris Hemsworth,Robert Downey Jr.,1
+Chris Hemsworth,Akshay Kumar,2
+Chris Hemsworth,Jackie Chan,2
+Chris Hemsworth,Bradley Cooper,1
+Chris Hemsworth,Adam Sandler,2
+Chris Hemsworth,Scarlett Johansson,1
+Chris Hemsworth,Sofia Vergara,2
+Chris Hemsworth,Chris Evans,1
+Robert Downey Jr.,Akshay Kumar,2
+Robert Downey Jr.,Jackie Chan,2
+Robert Downey Jr.,Bradley Cooper,1
+Robert Downey Jr.,Adam Sandler,2
+Robert Downey Jr.,Scarlett Johansson,1
+Robert Downey Jr.,Sofia Vergara,1
+Robert Downey Jr.,Chris Evans,1
+Akshay Kumar,Jackie Chan,2
+Akshay Kumar,Bradley Cooper,2
+Akshay Kumar,Adam Sandler,2
+Akshay Kumar,Scarlett Johansson,2
+Akshay Kumar,Sofia Vergara,2
+Akshay Kumar,Chris Evans,2
+Jackie Chan,Bradley Cooper,2
+Jackie Chan,Adam Sandler,2
+Jackie Chan,Scarlett Johansson,2
+Jackie Chan,Sofia Vergara,2
+Jackie Chan,Chris Evans,2
+Bradley Cooper,Adam Sandler,2
+Bradley Cooper,Scarlett Johansson,1
+Bradley Cooper,Sofia Vergara,2
+Bradley Cooper,Chris Evans,1
+Adam Sandler,Scarlett Johansson,2
+Adam Sandler,Sofia Vergara,2
+Adam Sandler,Chris Evans,2
+Scarlett Johansson,Sofia Vergara,1
+Scarlett Johansson,Chris Evans,1
+Sofia Vergara,Chris Evans,2
